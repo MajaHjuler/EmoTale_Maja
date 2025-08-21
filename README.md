@@ -38,7 +38,7 @@ In addition to the enacted emotion, two independent annotators provided four lab
 ## Citation
 
 ```
-@misc{hjuler2025emotaleenactedspeechemotiondataset,
+@misc{hjuler2025_emotale,
       title={EmoTale: An Enacted Speech-emotion Dataset in Danish}, 
       author={Maja J. Hjuler and Harald V. Skat-Rørdam and Line H. Clemmensen and Sneha Das},
       year={2025},
