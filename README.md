@@ -7,7 +7,7 @@ General information
 ------------------------------------------------------------------
 
 The EmoTale corpus contains Danish and English speech annotated affect states, and the data was collected as part of a master's thesis project at DTU. 
-See more information in the datasheet: `EmoTale_Datasheet.pdf`.
+See more information in the datasheet: `EmoTale_datasheet.pdf`.
 
 The data was collected in a quiet room at different locations using wireless RØDE microphones at a 48 kHz sampling rate. 
 There are 18 speakers in the corpus (12 female and 6 male) with ages ranging between 9 and 39 years old.
